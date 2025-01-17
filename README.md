@@ -1,6 +1,6 @@
 # LiveScene: Language Embedding Interactive Radiance Fields for Physical Scene Rendering and Control
 
-Migrate from [livesceness](https://github.com/livesceness/livescenes.github.io)
+## ❗️❗️❗️Migrate from [livesceness](https://github.com/livesceness/livescenes.github.io)
 
 ### [Paper](https://arxiv.org/abs/2406.16038) | [Project Page](https://livescenes.github.io) | [Code](https://github.com/Tavish9/livescene) | [Video](https://youtu.be/4gqUoCFK_0Q?si=fPY1HHYtUU6D6lkf)
 
